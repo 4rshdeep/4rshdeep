@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Who Am I: I am Arshdeep Singh, a graduate student at [IIT Delhi](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi). 
-               I am always on the lookout for challenging real world problems and spend my time developing solutions for them. 
+               I am always on the lookout for challenging problems and spend my time developing solutions for them. 
+
+- 🌱 My Interests: I am interested in machine learning applications to solve real world problems, including the overlooked engineering aspects of it. 
+                  I am obsessed on applying cutting edge research to practical use.  
 
 - 📫 How to reach me: You can either connect with me [here](https://www.linkedin.com/in/4rshdeep/) or send me an [email](mailto:arshdeep.50625@gmail.com)
