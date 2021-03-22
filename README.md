@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=4rshdeep&color=red)
 
 <!--
-**4rshdeep/4rshdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**4rshdeep/4rshdeep** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Who Am I: I am Arshdeep Singh, a graduate student at [IIT Delhi](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi). 
+- 😄 Who Am I: I am ✨ Arshdeep Singh ✨, a graduate student at [IIT Delhi](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi). 
                I am always on the lookout for challenging problems and spend my time developing solutions for them. 
 
 - 🌱 My Interests: I am interested in machine learning applications to solve real world problems, including the overlooked engineering aspects of it. 
