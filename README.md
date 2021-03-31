@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🌱 My Interests: I am interested in machine learning applications to solve real world problems, including the overlooked engineering aspects of it. 
                   I am obsessed on applying cutting edge research to practical use.  
 
-- 📫 How to reach me: You can either connect with me [here](https://www.linkedin.com/in/4rshdeep/) or send me an [email](mailto:arshdeep.50625@gmail.com)
+- 📫 How to reach me: You can either message me on [LinkedIn](https://www.linkedin.com/in/4rshdeep/) or shoot me an [email](mailto:arshdeep.50625@gmail.com)
