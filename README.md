@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![](https://komarev.com/ghpvc/?username=4rshdeep&color=red)
 
@@ -16,11 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 😄 Who Am I: I am ✨ Arshdeep Singh ✨, a graduate student at [IIT Delhi](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi). 
-               I am always on the lookout for challenging problems and spend my time developing solutions for them. 
-
-- 🌱 My Interests: I am interested in machine learning applications to solve real world problems, including the overlooked engineering aspects of it. 
-                  I am obsessed on applying cutting edge research to practical use.  
-
-- 📫 How to reach me: You can either message me on [LinkedIn](https://www.linkedin.com/in/4rshdeep/) or shoot me an [email](mailto:arshdeep.50625@gmail.com)
